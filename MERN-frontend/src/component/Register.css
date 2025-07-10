@@ -1,0 +1,15 @@
+.App-Register-Row{
+    display: flex;
+    justify-content: center;
+    padding: auto;
+    margin: auto;
+    background-color: rgb(231, 134, 15);
+    border-radius: 10px;
+}
+
+.App-Register-Row input{
+    padding:5px;
+    margin: 5px;
+    width: 500px;
+    box-sizing: border-box;
+}
